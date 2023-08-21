@@ -2,7 +2,7 @@ img="";
 status="";
 objects=[];
 function preload() {
-    img=loadImage("fruit basket.jpg");
+    img=loadImage("bottles.jpg");
 }
 
 function setup() {
